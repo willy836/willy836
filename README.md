@@ -18,8 +18,8 @@
 <a href="https://linkedin.com/in/wilson-kimiri-420396235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson-kimiri-420396235/" height="30" width="40" /></a>
 </p>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
-<img align="left" width="48%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willy836&theme=tokyonight" alt="willy836" />
 
 <h3 align="left">Languages:</h3>
