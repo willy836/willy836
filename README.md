@@ -19,7 +19,7 @@
 </p>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
-<img align="left" width="47%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willy836&theme=tokyonight" alt="willy836" />
 
 <h3 align="left">Languages:</h3>
