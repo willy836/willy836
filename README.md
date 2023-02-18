@@ -10,6 +10,7 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **wilsonkimiri836@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://willy836.github.io/Portfolio-App/)
 
 - ⚡ Fun fact **I love chess, but I'm not good at it!**
 
