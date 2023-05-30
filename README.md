@@ -24,7 +24,7 @@
 <img align="left" width="400"  src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="300" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
-<br> 
+<p height="20"></p> 
 <img align="center" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=willy836&theme=tokyonight" alt="willy836" />
 <hr>
 <h3 align="left">Languages & Frameworks:</h3>
