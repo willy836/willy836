@@ -21,9 +21,9 @@
 </p>
 <hr>
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
+<img align="left" width="400"  src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="250" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
+<img align="left" width="300" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
 
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=willy836&theme=tokyonight" alt="willy836" />
 <hr>
