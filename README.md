@@ -25,7 +25,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=willy8361&theme=tokyonight)](https://git.io/streak-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=willy836&layout=compact&theme=tokyonight" />
 <hr>
 <h3 align="left">Languages & Frameworks:</h3>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
