@@ -21,11 +21,11 @@
 </p>
 <hr>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" height="300" src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=willy836&layout=compact&theme=tokyonight" />
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=willy836&theme=tokyonight" alt="willy836" />
 <hr>
 <h3 align="left">Languages & Frameworks:</h3>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
