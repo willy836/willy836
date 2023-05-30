@@ -21,7 +21,7 @@
 </p>
 <hr>
 
-<img align="left" width="400"  src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
+<img align="left" width="500"  src="https://github-readme-stats.vercel.app/api?username=willy836&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="300" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy836&layout=compact&theme=tokyonight" />
 
