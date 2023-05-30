@@ -12,7 +12,7 @@
 - 📫 How to reach me **wilsonkimiri836@gmail.com** | [LinkedIn](https://www.linkedin.com/in/wilson-kimiri/)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://willy836.github.io/Portfolio-App/)
 
-- ⚡ Fun fact **I love chess, but I'm not good at it!**
+- ⚡ Fun fact **I have a great admiration for the game of chess, although I must admit my skills on the board are a work in progress!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
