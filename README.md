@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **wilsonkimiri836@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://willy836.github.io/Portfolio-App/)
