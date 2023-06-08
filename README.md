@@ -1,5 +1,5 @@
 
-<h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=8ecae6&center=true&vCenter=true&width=435&lines=Hi+👋+,+...+I+am+Wilson+..." alt="Typing SVG" /></a> <h1/>
+<h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=8ecae6&center=true&vCenter=true&width=435&lines=Hi+👋+,+....+I+am+Wilson+...." alt="Typing SVG" /></a> <h1/>
 <h3></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willy836&label=Profile%20views&color=0e75b6&style=flat" alt="willy836" /> </p>
