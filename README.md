@@ -27,7 +27,7 @@
 
 <img align="center" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=willy836&theme=tokyonight" alt="willy836" />
 <hr>
-<h3 align="left">Languages & Frameworks:</h3>
+<h3 align="left">Languages, Frameworks & Databases:</h3>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
