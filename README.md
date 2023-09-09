@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willy836&label=Profile%20views&color=0e75b6&style=flat" alt="willy836" /> </p>
 
 
-- 🌱 I’m currently learning **Full-stack Web Development**
+- 🌱 I’m a **Full-stack Web Developer**
 
 - 💬 Ask me about **Web Development**
 
