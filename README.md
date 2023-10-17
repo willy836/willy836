@@ -10,7 +10,7 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **wilsonkimiri836@gmail.com** | [LinkedIn](https://www.linkedin.com/in/wilson-kimiri/)
-- 👨‍💻 All of my projects are available at [My Portfolio](https://willy836.github.io/Portfolio-App/)
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://willy836.github.io/Portfolio-App/)
 
 - ⚡ Fun fact **I have great admiration for the game of chess, although I must admit my skills on the board are a work in progress!**
 
